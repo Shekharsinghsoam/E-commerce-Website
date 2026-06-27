@@ -17,9 +17,10 @@ This project is a frontend clone inspired by Nike Shoes Store UI.
 
 - Html
 - CSS
+  
 ## Screenshots
 
-
+![App Screenshot](IMAGR.png)
 
 
 
